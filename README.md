@@ -1,5 +1,5 @@
 # tester-portfolio-plan
-This is a plan I created to build my portfolio as an aspiring software tester (will be updated)
+This is a plan I created to build my portfolio and get my first testing job.
 
 As an aspiring software tester, I applied to almost 50 positions in April'22 alone, but received 20 rejections and 0 interview invitations 😕. So I decided to change my tactics and create a portfolio of projects that will help me showcase (and improve) my testing skills. I am also kinda new to GitHub so I hope to get more familiar with the platform as well. 
 
