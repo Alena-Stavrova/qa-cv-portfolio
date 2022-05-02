@@ -1,7 +1,7 @@
 # tester-portfolio-plan
 This is a plan I created to build my portfolio as an aspiring software tester (will be updated)
 
-As an aspiring software tester, I applied to almost 50 positions in April'22 alone, but received 20 rejections and 0 interview invitations 😕. So I decided to change my tactics and create a portfolio of projects that will help me showcase (and improve) my testing skills. 
+As an aspiring software tester, I applied to almost 50 positions in April'22 alone, but received 20 rejections and 0 interview invitations 😕. So I decided to change my tactics and create a portfolio of projects that will help me showcase (and improve) my testing skills. I am also kinda new to GitHub so I hope to get more familiar with the platform as well. 
 
 My current background (as of 02/05/2022): 
 - some understanding of testing theory and methodology (books and online lessons)
@@ -15,4 +15,4 @@ It was my choice not to attend any software testing courses available in Russia,
 1. None of them is universally recognized as quality one (no industry standard)
 2. From my understanding, many of them are just spoon-feeding their students the information and don't help them develop their thinking. As a software tester, you are supposed to solve problems you've never encountered before, figure things out and learn on your own, so I don't see how this approach of most courses is helpful. 
 
-I hope this plan will help me to achieve my goal of getting my first testing job, and I'd be happy if this repo will be helpful for other users. 
+Hopefully, this plan will help me to achieve my goal of getting my first testing job. And I'd be happy if other aspiring testers find it useful.  
