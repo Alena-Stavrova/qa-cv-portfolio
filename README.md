@@ -9,3 +9,6 @@ https://github.com/Alena-Stavrova/completed_test_assignments
 
 3. How to standardize student names in a table (MySQL project):
 https://github.com/Alena-Stavrova/standardizing_names
+
+4. How to create emails for students (MySQL project):
+https://github.com/Alena-Stavrova/student_emails
