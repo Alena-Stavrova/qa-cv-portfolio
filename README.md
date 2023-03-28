@@ -1,5 +1,6 @@
-# tester-portfolio
-This is the portfolio to demonstrate my skills to potential employers. I will update it as I complete more self-initiated projects and trial assignments. What I have so far:
+# QA CV and Portfolio
+
+This is the CV/Portfolio to demonstrate my skills to potential employers. I will do my best to keep it updated
 
 1. Genie Lamp Testing (pencil testing enhanced): 
 https://github.com/Alena-Stavrova/genie-lamp-testing
