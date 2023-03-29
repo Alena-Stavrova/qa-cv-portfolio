@@ -21,7 +21,7 @@ Examples of problems I have solved: https://www.codeabbey.com/index/task_list/sq
 
 - Basic understanding of API (client-server app, REST), basic skills with Postman and Chrome Dev Tools
 
-- Agile, Scrum (know the basic principles)
+- Agile, Scrum (the basic principles and elements)
 
 - Other projects
 
