@@ -37,5 +37,5 @@ Soft skills: research and analysis, indepedent learning, written communication (
 
 ## No courses? :thinking:
 
-Yep, I haven't done any commercial courses, but I dedicated a lot of time to studying free resources (both in English and in Russian).
+Correct, I haven't done any commercial courses, but I dedicated a lot of time to studying free resources (both in English and Russian).
 Some of my favs are Software Testing Mentor, FreeCodeCamp, Caleb Curry, QA START UP (all YouTube channels) and Atlassian's articles and tutorials.
