@@ -34,3 +34,8 @@ The trial assignments I have already completed, https://github.com/Alena-Stavrov
 Languages: English (C1+), German (~B1), Russian (native)
 
 Soft skills: research and analysis, indepedent learning, written communication (I do a lot of that stuff at my current job as a university admissions consultant)
+
+## No courses? :thinking:
+
+Yep, I haven't done any commercial courses, but I dedicated a lot of time to studying free resources (both in English and in Russian).
+Some of my favs are Software Testing Mentor, FreeCodeCamp, Caleb Curry, QA START UP (all YouTube channels) and Atlassian's articles and tutorials.
