@@ -17,7 +17,7 @@ Examples of problems I have solved: https://www.codeabbey.com/index/task_list/sq
 
 - OS Linux, bash, virtual machines (Oracle VM Virtual Box)
 
-I created a virtual machine, installed Ubuntu and played around. Then I installed Ubuntu as a 2nd OS on my old laptop, worked with both GUI and the commmand line. 
+I created a virtual machine, installed Ubuntu and played around a bit. Then I installed Ubuntu as a 2nd OS on my old laptop, worked with both GUI and the commmand line. 
 
 - Git, GitHub, GitLab, Git Bash
 
