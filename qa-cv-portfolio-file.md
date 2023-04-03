@@ -27,6 +27,8 @@ I created a virtual machine, installed Ubuntu and played around a bit. Then I in
 
 - Agile, Scrum (the basic principles and elements)
 
+Project 1: how to clean your boots - user story (in progress): https://github.com/Alena-Stavrova/clean-boots-user-story
+
 - Other projects
 
 Genie Lamp Testing (pencil testing enhanced), https://github.com/Alena-Stavrova/genie-lamp-testing
