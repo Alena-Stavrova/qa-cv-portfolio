@@ -9,6 +9,8 @@ Software Tester at MKS, https://github.com/nochlezhka/mks (non-profit project by
 
 ## Skills and Tools:
 
+- Theory of software testing, test artifacts
+
 - SQL (MySQL, MySQL Workbench, SQLite) 
 
 Project 1: standarding student names in a table (MySQL), https://github.com/Alena-Stavrova/standardizing_names
@@ -29,19 +31,29 @@ I created a virtual machine, installed Ubuntu and played around a bit. Then I in
 
 Project 1: how to clean your boots - user story (in progress): https://github.com/Alena-Stavrova/clean-boots-user-story
 
+- Other tools/technologies: Jira, Trello, Bitrix24, basic knowledge of Python, HTML, CSS 
+
 - Other projects
 
 Genie Lamp Testing (pencil testing enhanced), https://github.com/Alena-Stavrova/genie-lamp-testing
 
 The trial assignments I have already completed, https://github.com/Alena-Stavrova/completed_test_assignments
 
-## Other Info
+## Other info
 
 Languages: English (C1+), German (~B1), Russian (native)
 
 Soft skills: research and analysis, indepedent learning, written communication (I do a lot of that stuff at my current job as a university admissions consultant)
 
-## No courses? :thinking:
+## Current job
 
-Nope, I haven't done any commercial courses, but I dedicated a lot of time to studying free resources (both in English and Russian).
+I currently work in education consulting where many of my skills and tasks are relevant to testing, e.g. attention to details, research, explaining complex topics with simple language, checking documents against the requirements and establishing the company's quality standards. 
+
+## About me
+
+I may not have much experience in software testing as of now, but I can figure out a lot of things by research and trial and error. I have a knack for increasing efficiency and anticipating (and often avoiding) potential problems. A day when I learned something new or get to fix something is a good day.
+
+## No software testing courses? :thinking:
+
+Nope, I haven't taken any commercial courses, but I dedicated a lot of time to studying free resources (both in English and Russian).
 Some of my favs are Ministry of Testing, Software Testing Mentor, FreeCodeCamp, Caleb Curry, QA START UP (all YouTube channels) and Atlassian's articles on Agile and Scrum.
