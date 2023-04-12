@@ -56,4 +56,4 @@ I may not have much experience in software testing as of now, but I can figure o
 ## No software testing courses? :thinking:
 
 Nope, I haven't taken any commercial courses, but I dedicated a lot of time to studying free resources (both in English and Russian).
-Some of my favs are Ministry of Testing, Software Testing Mentor, FreeCodeCamp, Caleb Curry, QA START UP (all YouTube channels) and Atlassian's articles on Agile and Scrum.
+Some of my favs are Ministry of Testing, Software Testing Mentor, FreeCodeCamp, Caleb Curry, QA START UP and Atlassian's articles on Agile and Scrum.
