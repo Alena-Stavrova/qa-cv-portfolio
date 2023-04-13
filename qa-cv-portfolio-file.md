@@ -43,7 +43,7 @@ The trial assignments I have already completed, https://github.com/Alena-Stavrov
 
 Languages: English (C1+), German (~B1), Russian (native)
 
-Soft skills: research and analysis, indepedent learning, written communication (I do a lot of that stuff at my current job as a university admissions consultant)
+Soft skills: research and analysis, indepedent learning, written communication
 
 ## Current job
 
