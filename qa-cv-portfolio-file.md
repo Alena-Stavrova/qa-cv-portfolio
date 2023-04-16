@@ -11,6 +11,8 @@ Software Tester at MKS, https://github.com/nochlezhka/mks (non-profit project by
 
 - Theory of software testing, test artifacts
 
+Bug report (myfitnesspal, .md file and a link to Jira): https://github.com/Alena-Stavrova/mfp-app-bug/blob/main/bug-report.md
+
 - SQL (MySQL, MySQL Workbench, SQLite) 
 
 Project 1: standarding student names in a table (MySQL), https://github.com/Alena-Stavrova/standardizing_names
