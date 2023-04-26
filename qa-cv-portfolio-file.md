@@ -39,8 +39,6 @@ Project 1: how to clean your boots - user story (in progress): https://github.co
 
 Genie Lamp Testing (pencil testing enhanced), https://github.com/Alena-Stavrova/genie-lamp-testing
 
-The trial assignments I have already completed, https://github.com/Alena-Stavrova/completed_test_assignments
-
 ## Other info
 
 Languages: English (C1+), German (~B1), Russian (native)
