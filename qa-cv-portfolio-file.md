@@ -1,6 +1,6 @@
 # QA CV and Portfolio
 
-I am looking for an entry-level software testing job (manual testing, web). Ideally, it is in an agile team and requires high level of English.  
+I am looking for a junior/middle software testing position, ideally in an agile team and requiring high level of English.  
 
 ## Software Testing Experience:
 
