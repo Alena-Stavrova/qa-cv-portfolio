@@ -17,7 +17,9 @@ Bug report (myfitnesspal, .md file and a link to Jira): https://github.com/Alena
 
 Project 1: standarding student names in a table (MySQL), https://github.com/Alena-Stavrova/standardizing_names
 
-Project 2: creating emails for students (MySQL project), https://github.com/Alena-Stavrova/student_emails
+Project 2: creating emails for students (MySQL), https://github.com/Alena-Stavrova/student_emails
+
+Project 3: pilots problem (test assignment, MySQL): https://github.com/Alena-Stavrova/pilot_problem
 
 Examples of problems I have solved: https://www.codeabbey.com/index/task_list/sql 
 
