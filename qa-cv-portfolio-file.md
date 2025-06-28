@@ -30,6 +30,6 @@ Other tools and technologies I used for study projects:
 
 ## About me
 
-I switched to Software Testing/QA from another career wihtout taking any paid courses, but I dedicated a lot of time to studying free resources (both in English and Russian). Some of my favs are Software Testing Mentor, FreeCodeCamp, Caleb Curry, QA START UP and Atlassian's articles.
+I switched to Software Testing/QA from another career wihtout taking any paid courses. I dedicated a lot of time to studying free resources (both in English and Russian), some of my favs being Software Testing Mentor, FreeCodeCamp, Caleb Curry, QA START UP and Atlassian's articles.
 
 My current goal is to improve my Python skills and get into QA Automation. 
